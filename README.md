@@ -1,4 +1,4 @@
-[![t-inu's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-inu&theme=apprentice&show_icons=true&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![inukai's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-inu&custom_title=t-inu's%20GitHub%20Stats&disable_animations=true&theme=apprentice&show_icons=true&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **t-inu/t-inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
